@@ -1,0 +1,7 @@
+Cython:
+  type: programming
+  group: Python
+  extensions:
+  - ".pyx"
+  - ".pxd"
+  - ".pxi"
