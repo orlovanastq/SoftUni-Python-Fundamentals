@@ -1,7 +1,1 @@
-Cython:
-  type: programming
-  group: Python
-  extensions:
-  - ".pyx"
-  - ".pxd"
-  - ".pxi"
+*.pyx linguist-language=Cython
